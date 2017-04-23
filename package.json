@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "warsawJS Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tB",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "node-dev": "^3.1.3"
+  }
+}
